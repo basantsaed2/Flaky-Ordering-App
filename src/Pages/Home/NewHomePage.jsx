@@ -24,7 +24,7 @@ const NewHomePage=()=>{
                         <MenuIcon/>
                         <h1 className="text-2xl text-mainColor">Menu</h1>
                     </Link>
-                    <Link to="#" className="opacity-50 cursor-not-allowed bg-[#9E090F1A] flex flex-col gap-3  items-center justify-center rounded-xl p-2 md:p-6">
+                    <Link to="/location" className="bg-[#0d8a3c1A] flex flex-col gap-3  items-center justify-center rounded-xl p-2 md:p-6">
                         <DashIcon/>
                         <h1 className="text-2xl text-mainColor">Order Now</h1>
                     </Link>      

@@ -137,13 +137,13 @@ const Navbar = () => {
                             >
                                 {t('menu')}
                             </Link>
-                            {/* <Link
+                            <Link
                                 to={'/location'}
                                 className='w-full text-xl font-TextFontMedium text-mainColor border-b-2 p-3 pb-1'
                                 onClick={() => setToggleOpen(false)}
                             >
                                 {t('orderOnline')}
-                            </Link> */}
+                            </Link>
                             <Link
                                 to={'branches'}
                                 className='w-full text-xl font-TextFontMedium text-mainColor border-b-2 p-3 pb-1'
